@@ -18,8 +18,6 @@ In practice, linear regression is widely used in fields such as economics, socia
 
 # Linear Regression With Multiple Variables 
 
-![Image Alt Text](https://raw.githubusercontent.com/GayasuddinMohd/Linear-Regression-With-Multiple-Variables-Problem/2b9d96cf339cec0ca05fd02d3235a7f0576d22a5/Linaer%20Regression%20Image.svg)
-
 Linear regression with multiple variables, also known as multiple linear regression, extends the concept of simple linear regression to situations where there are more than one independent variable influencing the dependent variable. This allows for a more comprehensive model that can capture the relationships between multiple predictors and the target variable.
 
 # Uses
